@@ -23,10 +23,10 @@
             </picture>
 
             <div class="informacionPrincipal">
-                <h3>Javier Navarro Dieguez</h3>
-                <p>25 años</p>
-                <p>608435331</p>
-                <p>LMax3r@hotmail.com</p>
+                <h3 data-text="Javier Navarro Dieguez">Javier Navarro Dieguez</h3>
+                <p data-text="25 años">25 años</p>
+                <p data-text="608435331">608435331</p>
+                <p data-text="LMax3r@hotmail.com">LMax3r@hotmail.com</p>
             </div>
         </div>
 
