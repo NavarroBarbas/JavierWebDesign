@@ -37,7 +37,7 @@
        
     </section>
 
-    <section class="seccion" id="formacion">
+    <section class="seccion revealUp" id="formacion">
         <h2>Educación y Formación</h2>
 
         <div class="contenedor-formacion">
@@ -92,7 +92,7 @@
         </div>
     </section>
 
-    <section class="seccion" id="experiencia">
+    <section class="seccion revealUp" id="experiencia">
         <h2>Experiencia</h2>
         
         <div class="contenedor-experiencia">
@@ -126,7 +126,7 @@
         </div>
     </section>
 
-    <section class="seccion" id="competencias">
+    <section class="seccion revealUp" id="competencias">
         <h2>Competencias Digitales</h2>
 
         <div class="contenedor-competencias">
