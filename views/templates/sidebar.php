@@ -4,11 +4,13 @@
     </div>   
 
         <div class="menu">
-            <picture class="imagen-logo" url="/index.php">
-                <source srcset="build/img/logo.webp" type="image/webp">
-                <source srcset="build/img/logo.png" type="image/png">
-                <img loading="lazy" src="build/img/logo.png" alt="imagen logo">
-            </picture>
+            <a href="#personalInfo">
+                <picture class="imagen-logo">
+                    <source srcset="build/img/logo.webp" type="image/webp">
+                    <source srcset="build/img/logo.png" type="image/png">
+                    <img loading="lazy" src="build/img/logo.png" alt="imagen logo">
+                </picture>
+            </a>
 
             <div class="cerrar-menu">
                 <img id="cerrar-menu" src="build/img/cerrar.svg" alt="imagen cerrar menu">

@@ -1,15 +1,3 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link href="https://fonts.googleapis.com/css2?family=Bungee&family=Open+Sans&family=Oswald&family=PT+Sans:ital@1&display=swap" rel="stylesheet">
-    <link href="https://fonts.googleapis.com/css2?family=Bungee&family=Open+Sans&family=Oswald&family=PT+Sans:ital@1&family=Source+Code+Pro&display=swap" rel="stylesheet">
-    
-    <title>Document</title>
-</head>
-<body>
 <div class="principal">
     <?php include_once __DIR__ . '/../templates/sidebar.php'; ?>
 
@@ -25,7 +13,7 @@
             <div class="informacionPrincipal">
                 <h3>Javier Navarro Dieguez</h3>
                 <p>25 años</p>
-                <p><img src="https://img.icons8.com/color/40/000000/telegram-app--v4.png"/>BarbasNavarro</p>
+                <p><a href="https://t.me/BarbasNavarro"><img src="https://img.icons8.com/color/40/000000/telegram-app--v4.png"/>BarbasNavarro</a></p>
                 <p>LMax3r@hotmail.com</p>
             </div>
         </div>
@@ -167,7 +155,5 @@
             </div>
         </div>
     </section>
-</div>
 
-</body>
-</html>
+<?php include_once __DIR__ . '/../templates/footer.php'; ?>
